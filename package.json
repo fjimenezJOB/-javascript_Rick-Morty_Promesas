@@ -1,0 +1,14 @@
+{
+  "name": "rickymorty_promesas",
+  "version": "1.0.0",
+  "description": "Script para hacer consultas en la api de Rick y Morty, pero esta vez con Promesas para evitar los callback hell",
+  "main": "index.js",
+  "scripts": {
+    "callData": "node src/promesas/index.js"
+  },
+  "author": "Fran Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

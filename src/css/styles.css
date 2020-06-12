@@ -1,0 +1,14 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    display: flex;
+}
+
+
+.main-section-script{
+    display: flex;
+}
+
+.main-article_contenido{
+    background-color: rgb(228, 55, 55);
+    width: 100%;
+}
